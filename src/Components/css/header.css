@@ -1,0 +1,27 @@
+.nav{
+    background: url(../../../public/Background\ Image.png);
+}
+i{
+    color:white;
+}
+.p{
+    color:white;
+}
+.flexs{
+    display: flex;
+    justify-content: space-between;
+}
+.header_lis{
+    font-size: 20px;
+    list-style: none;
+    font-weight: 700;
+}
+.first_staff{
+    border-radius:10px;
+}
+.second_staff{
+    border-radius:10px;
+}
+.a{
+    color:inherit;
+}

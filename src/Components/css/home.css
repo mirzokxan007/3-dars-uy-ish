@@ -1,0 +1,205 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap');
+.her0_part{
+    background: url(../../../public/bg-part1.jpg);
+    display: flex;
+    /* position: absolute; */
+    /* top: 27%;
+    left: 5%; */
+}
+.container{
+    width: 1200px;
+}
+.left{
+    margin-top: 100px;
+    /* margin-left: 500px; */
+}
+.right-img{
+    margin-left: 200px;
+}
+.pg{
+    margin-left: 300px;
+}
+.cards{
+    border: 1px solid #eee;
+    box-shadow: 2px 2px 2px 2px #eee;
+    padding-inline-start: 40px;
+    margin-top: 20px;
+    border-radius: 8px;
+}
+.book{
+    margin-top: 100px;
+}
+.h2_first{
+    padding-top: 30px;
+}
+.p_first{
+    font-size:15px;
+}
+.icon{
+    position: absolute;
+    margin-top: 54px;
+    margin-left:13px;
+    color:blueviolet;
+}
+.features{
+    background: url(../../../public/bg-14.png)
+}
+.h1_features{
+    padding-top: 100px;
+    color:white;
+}
+.h2_features{
+    color:white;
+}
+.p_features {
+    color:white;
+}
+.pg1{
+    margin-left: 480px;
+    
+}
+.gifts{
+    text-align: end;
+    color:white;
+}
+.gift_icon{
+    margin-left: 300px;
+}
+.uni{
+    color:white;
+}
+.nav_1{
+    margin-top: 200px;   
+}
+.nav_2{
+    margin-top: 200px;
+    /* padding-bottom: 300px; */
+}
+.tele{
+    position: absolute;
+    margin-top: 600px;
+    margin-left: 430px;
+}
+.nav_3{
+    margin-top: 130px;
+    margin-left: 240px;
+    text-align: center;
+    color:white;
+    padding-bottom: 70px;
+}
+.pg2{
+    color:#6C6C72;
+}
+.slider{
+    margin-left: 570px;
+}
+.dawnload{
+    margin-top: 100px;
+    display: flex;
+    justify-content: space-around;
+}
+.cardd{
+    background-color: #5851EA;
+    padding: 20px;
+    margin-right:  30px;
+    margin-top: 70px;
+    border-radius:10px;
+    text-align: center;
+}
+.how_use{
+    background: url(../../../public/howit.png);
+    height: 477px;
+}
+.how_h2{
+    text-transform: uppercase;
+    padding-top: 100px;
+    padding-bottom: 50px;
+}
+.video{
+    position: absolute;
+    margin-top: 250px;
+    margin-left: 130px;
+}
+.reative{
+    margin-top: 300px;
+    margin-bottom: 100px;
+}
+.black{
+    color:black;
+    
+}
+.reative_cards{
+    display: flex;
+    justify-content: space-around;
+}
+.reative_card{
+    box-shadow:2px 0px 6px #eee;
+    margin-top: 60px;
+    text-align: center;
+    border:1px solid #eee;
+    padding:20px 10px ;
+}
+.reative_card:hover{
+    box-shadow:2px 0px 10px #5851EA;
+    transition: .3s ease-in-out;
+}
+.eee{
+    color:rgba(0, 0, 0, 0.3);
+}
+.reative_h3{
+    font-family: 'Josefin Sans', sans-serif;
+}
+.icon_section {
+    justify-content: space-around;
+   
+}
+.happy{
+    background: url(../../../public/Background\ Image.png);
+}
+.reitive{
+    margin-top: 70px;
+}
+.reative_card1{
+    box-shadow:2px 0px 6px #eee;
+    margin-top: 60px;
+    text-align: center;
+    border:1px solid #eee;
+    margin-right: 60px;
+}
+.reative_card1:hover{
+    box-shadow:2px 0px 10px #5851EA;
+    transition: .3s ease-in-out;
+}
+.a_second{
+    padding-bottom: 20px;
+}
+.futer{
+    background-color: #232233;
+    margin-top: 200px;
+}
+.bold{
+    color:white;
+    font-weight: bold;
+}
+.with{
+    padding-top: 200px;
+}
+.uniw{
+    color:white;
+    font-weight:200;
+}
+li{
+    list-style: none;
+}
+.inputs_icon{
+    position: absolute;
+    color:#5851EA;
+    margin-top: 17px;
+    margin-left: 290px;
+}
+.bot{
+    border-top: 1px solid rgb(255, 255, 255);
+}
+.imgf{
+    position: absolute;
+}
